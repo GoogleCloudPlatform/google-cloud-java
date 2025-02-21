@@ -1,5 +1,14 @@
 # Changelog
 
+## 3.61.0 (2025-02-21)
+
+### Features
+
+* Add option to enable fetching dependencies ([625b447](https://github.com/googleapis/google-cloud-java/commit/625b4471293ed9781a8c07fc4562d0bcdb1a9aae))
+* Support for git proxy setup ([625b447](https://github.com/googleapis/google-cloud-java/commit/625b4471293ed9781a8c07fc4562d0bcdb1a9aae))
+
+
+
 ## 3.60.0 (2025-02-11)
 
 ### Dependencies

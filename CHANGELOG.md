@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.53.0](https://github.com/googleapis/google-cloud-java/compare/v1.52.0...v1.53.0) (2025-02-21)
+
+
+### Features
+
+* [cloudbuild] Add option to enable fetching dependencies ([625b447](https://github.com/googleapis/google-cloud-java/commit/625b4471293ed9781a8c07fc4562d0bcdb1a9aae))
+* [cloudbuild] Support for git proxy setup ([625b447](https://github.com/googleapis/google-cloud-java/commit/625b4471293ed9781a8c07fc4562d0bcdb1a9aae))
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.google.cloud:google-cloud-pubsub-bom to v1.137.0 ([#11439](https://github.com/googleapis/google-cloud-java/issues/11439)) ([02c156b](https://github.com/googleapis/google-cloud-java/commit/02c156ba5a89fe96d653348dadf1141c34c1b9fe))
+* **deps:** update dependency com.google.cloud:google-cloud-storage to v2.48.2 ([#11437](https://github.com/googleapis/google-cloud-java/issues/11437)) ([3922435](https://github.com/googleapis/google-cloud-java/commit/39224351a48eb47753fab3e24889c52dd0f392c0))
+
 ## [1.52.0](https://github.com/googleapis/google-cloud-java/compare/v1.51.0...v1.52.0) (2025-02-11)
 
 
